@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\bin\Debug\net5.0\MaxUsingGenerics.exe
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\bin\Debug\net5.0\MaxUsingGenerics.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\bin\Debug\net5.0\MaxUsingGenerics.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\bin\Debug\net5.0\MaxUsingGenerics.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\bin\Debug\net5.0\MaxUsingGenerics.dll
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\bin\Debug\net5.0\ref\MaxUsingGenerics.dll
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\bin\Debug\net5.0\MaxUsingGenerics.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\obj\Debug\net5.0\MaxUsingGenerics.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\obj\Debug\net5.0\MaxUsingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\obj\Debug\net5.0\MaxUsingGenerics.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\obj\Debug\net5.0\MaxUsingGenerics.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\obj\Debug\net5.0\MaxUsingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\obj\Debug\net5.0\MaxUsingGenerics.dll
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\obj\Debug\net5.0\ref\MaxUsingGenerics.dll
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\obj\Debug\net5.0\MaxUsingGenerics.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day13Assignment\MaxUsingGenerics\MaxUsingGenerics\obj\Debug\net5.0\MaxUsingGenerics.genruntimeconfig.cache
